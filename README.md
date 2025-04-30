@@ -1,6 +1,8 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 29.04.25
+## Devloped by: Deepika s
+## Reg No: 212223230039
 
 ## AIM:
 
@@ -52,11 +54,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
-## Output:
+## Output: 
+
+![image](https://github.com/Mohanish7777777/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/111619160/6b49d016-d10a-4c6b-a38c-067d77e78148)
 
 
-### Name:
-### Register Number: 
+### Name: Deepika S
+### Register Number: 212223230039
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
